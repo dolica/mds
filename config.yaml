@@ -1,0 +1,10 @@
+amap: 
+  ak: 1234
+mongo:
+  url: mongo://10.1.41.5
+  db: test
+  timeout: 100000
+http:
+  port: 9090
+  read_timeout: 2000
+  write_timeout: 2000
